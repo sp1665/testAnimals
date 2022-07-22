@@ -1,14 +1,14 @@
 {
 "animals" :[ 
-{id: 1, name: 'Tyler', species: 'Wolf', weight: 30},
-{id: 2, name: 'Gavin', species: 'Skunk', weight: 22},
-{id: 3, name: 'Barry', species: 'Cheetah', weight: 43},
-{id: 4, name: 'Tertiary', species: 'Mole', weight: 10},
-{id: 5, name: 'Amanda', species: 'Panda', weight: 79},
-{id: 6, name: 'Veronica', species: 'Olm', weight: 0.1},
-{id: 7, name: 'Bark', species: 'Cat', weight: 15},
-{id: 8, name: 'Chad', species: 'Firefly', weight: 0.01},
-{id: 9, name: 'SuperMan', species: 'Elephant', weight: 101},
-{id: 10, name: 'Brad', species: 'Skunk', weight: 23}
+{"id": 1, "name": 'Tyler', "species": 'Wolf', "weight": 30},
+{"id": 2, "name": 'Gavin', "species": 'Skunk', "weight": 22},
+{"id": 3, "name": 'Barry', "species": 'Cheetah', "weight": 43},
+{"id": 4, "name": 'Tertiary', "species": 'Mole', "weight": 10},
+{"id": 5, "name": 'Amanda', "species": 'Panda', "weight": 79},
+{"id": 6, "name": 'Veronica', "species": 'Olm', "weight": 0.1},
+{"id": 7, "name": 'Bark', "species": 'Cat', "weight": 15},
+{"id": 8, "name": 'Chad', "species": 'Firefly', "weight": 0.01},
+{"id": 9, "name": 'SuperMan', "species": 'Elephant', "weight": 101},
+{"id": 10,"name": 'Brad', "species": 'Skunk', "weight": 23}
 ],
 }
