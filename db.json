@@ -10,12 +10,5 @@
     {"id": 8, "name": "Chad", "species": "Firefly", "weight": 0.01},
     {"id": 9, "name": "SuperMan", "species": "Elephant", "weight": 101},
     {"id": 10, "name": "Brad", "species": "Skunk", "weight": 23}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
