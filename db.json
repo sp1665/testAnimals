@@ -1,5 +1,5 @@
 {
-  "animals": [ 
+  "animals": [
     {"id": 1, "name": "Tyler", "species": "Wolf", "weight": 30},
     {"id": 2, "name": "Gavin", "species": "Skunk", "weight": 22},
     {"id": 3, "name": "Barry", "species": "Cheetah", "weight": 43},
@@ -11,4 +11,11 @@
     {"id": 9, "name": "SuperMan", "species": "Elephant", "weight": 101},
     {"id": 10, "name": "Brad", "species": "Skunk", "weight": 23}
   ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
